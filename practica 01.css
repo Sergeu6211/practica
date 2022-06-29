@@ -16,17 +16,21 @@ h2 {
     margin-top: 0;
     margin-bottom:24px;
 }
-
+р3{
+    color: white;
+}
 img {
     width: 230px;
 }
 
 p {
     font-family: 'Inter', sans-serif;
+    text-align: center;
 }
 div{
     width: 500px;
     height: 500px;
     background-color: MediumPurple;
     text-align: center;
+    margin: auto;
 }
